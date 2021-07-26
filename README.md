@@ -12,7 +12,7 @@
 - 1:N multi voice program
 
 ## Usage
-If you want to play with this code, import the project intoo Netbeans
+If you want to play with this code, import the project into Netbeans
 
 
 ## ScreenShots
